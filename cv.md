@@ -15,6 +15,7 @@ Work: Taxi-driver
 ***
 ## About me
 I am responsible, quickly learn new information, resistant to stress.
+Extremely motivated for career change goal.
 ***
 ## My skills:
 * HTML5
