@@ -20,6 +20,7 @@ Extremely motivated for career change goal.
 ## My skills:
 * HTML5
 * CSS
+* Git
 
 *** 
 ## My goals:
