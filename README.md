@@ -1,2 +1,2 @@
 # rsschool-cv
-https://denivankov.github.io/rsschool-cv/cv
+https://vigilant-joliot-c131b3.netlify.app
